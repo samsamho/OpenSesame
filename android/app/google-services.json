@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965230535404",
+    "project_id": "open-sesame-9ff16",
+    "storage_bucket": "open-sesame-9ff16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965230535404:android:5af1a66f64a66d4741fbc9",
+        "android_client_info": {
+          "package_name": "com.opensesame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965230535404-d7bpkdrkfc0h1960erq0q9h2ro773js4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opensesame",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "965230535404-gcgm5soqvjpgbcaespl9bu5u42aql43g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBghjQuQZxYLsgVhl4mpd8NMdQXW3p51HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965230535404-gcgm5soqvjpgbcaespl9bu5u42aql43g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
